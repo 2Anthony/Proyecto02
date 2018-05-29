@@ -5,4 +5,4 @@ defrutos secos.
 
 Funcionalidades:
 ====
-* Se muestrn los productos en una lista
+* Se muestran los productos en una lista
